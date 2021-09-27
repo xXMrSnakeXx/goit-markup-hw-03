@@ -180,7 +180,7 @@ body {
     flex-basis: calc(100% / 4 - 30px);
     margin-left: 30px;
 }
-.benefits-item:first-child{
+.benefits-item:nth-child( 1 ){
     margin-left: 0;
 }
 .benefits-title {
@@ -221,7 +221,7 @@ body {
     flex-basis: calc(100% / 3 - 30px);
     margin-left: 30px;
 }
-.work-examples-item:first-child{
+.work-examples-item:nth-child( 1 ){
     margin-left: 0;
 }
 
@@ -251,7 +251,7 @@ body {
     flex-basis: calc(100% / 4 - 30px);
     margin-left: 30px;
 }
-.our-team-item:first-child{
+.our-team-item:nth-child( 1 ){
     margin-left: 0;
 }
 .our-team-content{
